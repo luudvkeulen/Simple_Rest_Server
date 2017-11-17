@@ -1,0 +1,28 @@
+{
+  "name": "simple_rest_server",
+  "version": "0.0.1",
+  "description": "Simple rest server to test reverse proxy",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luudvkeulen/Simple_Rest_Server.git"
+  },
+  "keywords": [
+    "rest"
+  ],
+  "author": "Luud van Keulen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luudvkeulen/Simple_Rest_Server/issues"
+  },
+  "homepage": "https://github.com/luudvkeulen/Simple_Rest_Server#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  }
+}
